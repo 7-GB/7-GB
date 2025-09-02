@@ -16,7 +16,7 @@
 <h3 align="left">My accounts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahem-hisham-8ab587348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahem-hisham-8ab587348" height="30" width="40" /></a>
-<a href="https://t.me/IBMHI" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="IBMHI" height="40" width="40" /></a>
+<a href="https://t.me/IBMHI" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="IBMHI" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/mr_breem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr. breem" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/qjui0y6w0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qjui0y6w0o" height="30" width="40" /></a>
 </p>
